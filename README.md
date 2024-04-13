@@ -39,5 +39,3 @@ The following project designs an application and detail steps for the  business 
 * Android Studio
 
 
-![REST_API_SPA](https://github.com/Prashar-P/REST_API_SPA/assets/140114811/784a77ea-4a77-4c20-bbfb-d28e6d473932)
-
