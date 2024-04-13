@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.coventry.ac.uk/prasharp/6006CEM_PP_9246731/"></a>
 
-<h3 align="center">Fitness Application Design (Fitnetix)>
+<h3 align="center">Fitness Application Design (Fitnetix) >
 </div>
 
 <!-- TABLE OF CONTENTS -->
