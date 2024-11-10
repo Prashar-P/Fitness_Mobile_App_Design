@@ -36,7 +36,6 @@
 
 The following project designs an application and detail steps for the  business and desugb approach for a mobile application targeted towards students. (Group Project). 
 NOTE: This is not a published application, only a pontential design and implementation for a mobile application.
-Source code for this project is ommited for more information contact: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn - Priya Prashar](https://www.linkedin.com/in/priya-prashar-4801/)
 
 ![Fitnetix](https://github.com/Prashar-P/Fitness_Mobile_App_Design/assets/140114811/1b04faa0-ec5a-4b10-8c04-4cc9d01ad911)
 
